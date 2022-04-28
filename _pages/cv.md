@@ -32,7 +32,7 @@ Work experience
 * 12/2019 – 04/2021 : Temporary Teacher
   * [ENSA](https://ensaf.ac.ma/)
   
-* 02/2019 – 06/2019 : Temporary Teacher
+* 02/2018 – 06/2018 : Temporary Teacher
   * [Ibno Zohr University](https://www.uiz.ac.ma/)
   * Higher School of Technology of Guelmim
   
