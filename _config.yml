@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pr Youssouf EL ALLIOUI"
+title                    : "Pr Salma EL HAJJAMI"
 title_separator          : "-"
-name                     : "Pr Youssouf EL ALLIOUI"
-description              : "Research scientist at USMS University"
-url                      : "https://yelallioui.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Pr Salma EL HAJJAMI"
+description              : "Research scientist at UIZ University"
+url                      : "https://salmaelhajjami.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
-repository               : "yelallioui/yelallioui.github.io"
+repository               : "salmaelhajjami/salmaelhajjami.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,30 +80,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Youssouf EL ALLIOUI"
-  avatar           : "WhatsApp Image 2021-05-23 at 22.45.39.jpeg"
-  bio              : "Research scientist - Semantic web, machine learning, educational data mining (EDM)"
-  location         : "Khouribga, Morocco"
-  employer         : "Université Sultan Moulay Slimane"
+  name             : "Salma EL HAJJAMI"
+  avatar           : "Moi.jpeg"
+  bio              : "Research scientist - Data Science, Machine Learning, Deep Learning, Big Data, Blockchain"
+  location         : "Agadir, Morocco"
+  employer         : "Université Ibno Zohr"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=OeiqzH0AAAAJ"
-  email            : "y.elallioui@usms.ma" 
-  researchgate     : "https://www.researchgate.net/profile/Youssouf_El_Allioui"
-  uri              : "http://www.usms.ac.ma/website/"
+  googlescholar    : "https://scholar.google.com/citations?user=YqXKkgIAAAAJ&hl=fr&oi=ao"
+  email            : "salma.elhajjami@usmba.ac.ma" 
+  researchgate     : "https://www.researchgate.net/profile/Salma-El-Hajjami"
+  uri              : "https://www.uiz.ac.ma/"
   bitbucket        :
   codepen          : 
   dribbble         : 
   flickr           :
-  facebook         : "yelallioui"
+  facebook         : "salmaelhajjami"
   foursquare       :
-  github           : "yelallioui"
+  github           : "salmaelhajjami"
   google_plus      : 
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yelallioui"
-  orcid            : "http://orcid.org/0000-0001-7176-7434"
+  linkedin         : "https://www.linkedin.com/in/salma-el-hajjami-842a6a93/"
+  orcid            : "https://orcid.org/0000-0002-5560-478X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
