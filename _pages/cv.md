@@ -11,51 +11,51 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Sciences, [USMBA](http://www.usmba.ac.ma/), [LAAS-CNRS](https://www.laas.fr/), [CHU-Fès](http://www.chu-fes.ma/), 10/2012
-  * Projet : [Télé-NEuroScience sur une plateforme collaborative Mobile sur Internet](http://homepages.laas.fr/khalil/page/index.php?n=PROJETS.TENEMO)
-  * Sujet : 
-    * Une approche de gestion de profils et de personnalisation des réponses neurologiques dans un environnement mobile.
-  * Partenaires : 
-    * Le Centre Hospitalier Universitaire Hassan II – [CHU de Fès](http://www.chu-fes.ma/), [Service de la neurologie](http://www.chu-fes.ma/neurologie/)
-    * Laboratoire d’Architecture et d’Analyse des Systèmes : [LAAS-CNRS - Toulouse](https://www.laas.fr/public/)
+* Ph.D in Computer Sciences, [USMBA](http://www.usmba.ac.ma/), [LIASSE-CNRS], 06/2021
+  * Project : [PLAIBDE project of the FEDER- FSE operational program for the Nouvelle-Aquitaine region, France]
+  * Subject : 
+    * Development of a Machine Learning technique to detect credit card fraud: application on imbalanced massive data.
+  * Partners : 
+    * aYaline company :(https://www.ayaline.com/)
+    * Laboratoire d'Informatique et d'Automatique pour les Systèmes : [LIAS-ENSMA](https://www.lias-lab.fr/)
+    * Laboratoire Informatique, Image et Interaction : [L3I](https://l3i.univ-larochelle.fr/)
     
-* Diplôme d'Etudes Supérieures Spécialisées (DESS), Génie Informatique (GI), [USMBA](http://www.usmba.ac.ma/), 2007
+* Engineer's degree in Computer Sciences, [ENSA](https://ensaf.ac.ma/), 2015
 
 Work experience
 ======
-* Depuis 02/2013: Enseignant Chercheur
-  * [Université Sultan Moulay Slimane](http://www.usms.ac.ma/)
-  * [Faculté Polydisciplinaire de Khouribga](fpk.ac.ma)
-  * Département des mathématiques et informatique
-
-* 02/2013 – 01/2019 : Enseignant Vacataire
-  * [SUP’MANAGEMENT](https://www.supmanagement.ma/index.php)
-  * Ecole d’Ingénierie (School of Engineering)
+* Since 12/2021: Teacher Researcher
+  * [Ibno Zohr University](https://www.uiz.ac.ma/)
+  * [Faculty of Science, Agadir](http://www.fsa.ac.ma/)
+  * Computer Science Department
   
-* 02/2012 – 05/2012 : Enseignant Vacataire
-  * [IGA de Fès](https://iga.ac.ma/)
+* 12/2019 – 04/2021 : Temporary Teacher
+  * [ENSA](https://ensaf.ac.ma/)
   
-* 09/2008 – 07/2009 : Formateur
-  * [OFPPT](https://www.ofppt.ma/) - Office de la Formation Professionnelle et de la Promotion du Travail
-  * ISTA Al-Adarissa, Fès, Maroc
+* 02/2019 – 06/2019 : Temporary Teacher
+  * [Ibno Zohr University](https://www.uiz.ac.ma/)
+  * Higher School of Technology of Guelmim
   
-Workshop
-======
-* May 09-13, 2016 : [Big Data Training Workshop](http://med-space.org/iweek16/apply-for-big-data-workshop/ ), ENSIAS, Rabat, Morocco
-* May 10, 2016 : [Green ICT Workshop](http://med-space.org/iweek16/green-ict/ ), ENSIAS, Rabat, Morocco
-* May 11, 2016 : [IWTIE’16](http://med-space.org/iweek16/iwtie16/) - International Workshop of Technology Innovation and Entrepreneurship, ENSIAS, Rabat, Morocco
+* 09/2021 – 12/2021 : IT engineer
+  * Prefecture of Agadir Ida Outanane
+  * Division of information and telecommunication systems (DSIT)
+  
+* 01/2017 – 09/2021 : IT engineer
+  * Province of Assa-Zag
+  * Service of information and telecommunication systems (SSIT)
+  * Position: Responsible for the Information and Communication Systems Service (SSIC) 
   
 Skills
 ======
-* Langages :
-  * Python, Objective-C, Java, C #, C/C++, VB.Net,
+* Languages:
+  * Python, Scala, Java, C #, C/C++, VB.Net,
   * XML, HTML, CSS, JavaScript, PHP, 
-  * PL/SQL, Transact SQL,
-  * Lisp, Prolog, 
+  * PL/SQL,
+  * Prolog, 
   * OWL, RDF, RDFS (Ontology)   
-* Analyse & Conception :
-  * UML, Merise 
-  * RUP, V, Y
+*Analysis & Design:
+  * UML, Merise,
+  * Design Patterns,
 * Architectures :
   * Java EE, DotNet, Web services, Design pattern
 * Technologies :
@@ -64,19 +64,26 @@ Skills
   * ASP.Net, ADO.Net, Winform
 * SGBDs :
   * Oracle, SQL Server, MySQL, Access
-* Logiciels :
+* Softwares:
   * PyCharm
   * Protégé - ontology editor
   * Xcode - Apple Developer
   * Eclipse, NetBeans
   * Microsoft Visual Studio .Net 
   * Rational Rose, Power AMC Designer 
-* Serveurs :
+* Servers:
   * Apache, Tomcat, Jonas, Jboss, Glassfish
   * IIS
-* Réseaux :
-  * TCP/IP, OSI, LAN, MAN, WAN, Ethernet
-
+* System Administration:
+  * Microsoft Exchange, 
+  * Active Directory, Citrix, 
+  * WSUS, System Center 
+ * Big Data Solutions :  
+  * Flink, Spark, Hadoop, 
+  * Flume, Yarn, Zookeeper, 
+  * Hive, Hbase, Kafka,
+* Other software/tools: 
+ * Machine learning, Deep Learning,
 
 Publications
 ======
@@ -96,8 +103,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Coordonnateur de la filière SMI – Sciences Mathématiques et Informatique 
-* Membre du collège du département Mathématiques et informatique
-* Chef de la commission Scientifique chargée de la recherche scientifique, de la bibliothèque et des archives. 
