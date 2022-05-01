@@ -16,7 +16,7 @@ Education
   * Subject : 
     * Development of a Machine Learning technique to detect credit card fraud: application on imbalanced massive data.
   * Partners : 
-    * aYaline company :(https://www.ayaline.com/)
+    * [aYaline company](https://www.ayaline.com/)
     * Laboratoire d'Informatique et d'Automatique pour les Systèmes : [LIAS-ENSMA](https://www.lias-lab.fr/)
     * Laboratoire Informatique, Image et Interaction : [L3I](https://l3i.univ-larochelle.fr/)
     
@@ -81,7 +81,7 @@ Skills
   * Flume, Yarn, Zookeeper, 
   * Hive, Hbase, Kafka
 * Other software/tools: 
-  * Machine learning, Deep Learning
+  * Machine Learning, Deep Learning
 
 Publications
 ======
