@@ -83,7 +83,7 @@ Skills
   * Flume, Yarn, Zookeeper, 
   * Hive, Hbase, Kafka
 * Other software/tools: 
- * Machine learning, Deep Learning,
+  * Machine learning, Deep Learning
 
 Publications
 ======
