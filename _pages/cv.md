@@ -78,10 +78,10 @@ Skills
   * Microsoft Exchange, 
   * Active Directory, Citrix, 
   * WSUS, System Center 
- * Big Data Solutions :  
+* Big Data Solutions :  
   * Flink, Spark, Hadoop, 
   * Flume, Yarn, Zookeeper, 
-  * Hive, Hbase, Kafka,
+  * Hive, Hbase, Kafka
 * Other software/tools: 
  * Machine learning, Deep Learning,
 
