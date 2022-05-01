@@ -53,11 +53,9 @@ Skills
   * PL/SQL,
   * Prolog, 
   * OWL, RDF, RDFS (Ontology)   
-*Analysis & Design:
+* Analysis & Design:
   * UML, Merise,
-  * Design Patterns,
-* Architectures :
-  * Java EE, DotNet, Web services, Design pattern
+  * Design Patterns
 * Technologies :
   * Ontology, Jena, DataMaster
   * Servlet, JSP, EJB, JSF, Struts, RMI, CORBA, Hibernate, TopLink,
