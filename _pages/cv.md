@@ -34,7 +34,7 @@ Work experience
   
 * 02/2018 – 06/2018 : Temporary Teacher
   * [Ibno Zohr University](https://www.uiz.ac.ma/)
-  * Higher School of Technology of Guelmim
+  * [Higher School of Technology of Guelmim](http://www.estg.ac.ma/)
   
 * 09/2021 – 12/2021 : IT engineer
   * Prefecture of Agadir Ida Outanane
