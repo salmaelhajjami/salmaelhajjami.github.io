@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm Salma EL HAJJAMI, an Assistant Professor and Researcher at the [Faculty of science](http://www.fsa.ac.ma/), [University of Ibno Zohr](https://www.uiz.ac.ma/), Morocco. I hold a Ph.D. in Computer Science from ENSA](https://ensaf.ac.ma/), [Sidi Mohamed Ben Abdellah University](http://www.usmba.ac.ma/) in Fez, Morocco, which I received in 2021. Additionally, I earned a degree in Computer Science Engineering from the National School of Applied Sciences in Fez, Morocco in 2015.
+
+I'm Salma EL HAJJAMI, an Assistant Professor and Researcher at the [Faculty of science](http://www.fsa.ac.ma/), [University of Ibno Zohr](https://www.uiz.ac.ma/), Morocco. I hold a Ph.D. in Computer Science from [ENSA](https://ensaf.ac.ma/), [Sidi Mohamed Ben Abdellah University](http://www.usmba.ac.ma/) in Fez, Morocco, which I received in 2021. Additionally, I earned a degree in Computer Science Engineering from the National School of Applied Sciences in Fez, Morocco in 2015.
 
 As a researcher, I am passionate about exploring cutting-edge technologies and approaches that can help address a diverse range of real-world challenges. Specifically, my research interests are focused on Anomaly Detection, Imbalanced Big Data, IoT, Smart Applications, Machine Learning, Deep Learning, and Blockchain. I work in a multidisciplinary environment to investigate these fields comprehensively and identify innovative solutions to real-world problems. My research focus includes analytical approaches for decision making, which must be contextually adaptive and encompass different approaches (e.g., decisional, learning, predictive, etc.) to support the lifecycle of large data. Moreover, my research extends to several application fields, including Fintech, Health, Environment, and other domains, where I seek to contribute to scientific advancements and promote positive social impact.
 
