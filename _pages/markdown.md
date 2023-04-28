@@ -12,4 +12,3 @@ Contact information is below, including email and various web services.  This is
 * Name    : Salma EL HAJJAMI
 * E-mail  : s.elhajjami@uiz.ac.ma, salma.elhajjami@usmba.ac.ma
 * Skype   : selhajjami
-* Linkdin : https://www.linkedin.com/in/salma-el-hajjami-842a6a93/
