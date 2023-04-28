@@ -12,6 +12,6 @@ Abstract : Recent years have seen Social Web becoming a global phenomenon, which
 
 Keywords: Social Web; business intelligence; multi-dimensional analysis; Semantic Web; multi-agent system.
 
-[Download paper here](/files/2020-Journal01.pdf)
+[Download paper here]
 
 Recommended citation: El Hajjami, S., Berrada, M., Harti, M., & Diallo, G. (2020). Using semantic web technologies and multi-agent system for multi-dimensional analysis of open health data. Journal of Information & Knowledge Management, 19(03), 2050021.
