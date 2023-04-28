@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Pr Salma EL HAJJAMI"
 title_separator          : "-"
 name                     : "Pr Salma EL HAJJAMI"
-description              : "Research scientist at UIZ University"
+description              : "Assistant Professor and Researcher at the Faculty of science, University of Ibn Zohr, Morocco"
 url                      : "https://salmaelhajjami.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "salmaelhajjami/salmaelhajjami.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Salma EL HAJJAMI"
   avatar           : "Moi.jpg"
-  bio              : "Research scientist - Data Science, Machine Learning, Deep Learning, Big Data, Blockchain"
+  bio              : "Assistant Professor and Researcher"
   location         : "Agadir, Morocco"
-  employer         : "Université Ibno Zohr"
+  employer         : "Ibn Zohr University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=YqXKkgIAAAAJ&hl=fr&oi=ao"
-  email            : "salma.elhajjami@usmba.ac.ma" 
+  email            : "s.elhajjami@uiz.ac.ma, salma.elhajjami@usmba.ac.ma" 
   researchgate     : "https://www.researchgate.net/profile/Salma-El-Hajjami"
   uri              : "https://www.uiz.ac.ma/"
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         : "salmaelhajjami"
   foursquare       :
-  github           : "salmaelhajjami"
+  github           : "https://github.com/salmaelhajjami"
   google_plus      : 
   keybase          :
   instagram        :
