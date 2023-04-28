@@ -12,7 +12,6 @@ Abstract : With the expansion of machine learning and data mining in the context
 
 Keywords : Machine learning; Imbalanced data; Data mining; Big data.
 
-[Download paper here](/files/2021-Journal02.pdf)
 
 Recommended citation: El Hajjami, S., Malki, J., Bouju, A., & Berrada, M. (2021). Machine Learning Facing Behavioral Noise Problem in an Imbalanced Data Using One Side Behavioral Noise Reduction: Application to a Fraud Detection. International Journal of Computer and Information Engineering, 15(3), 194-205.
 
